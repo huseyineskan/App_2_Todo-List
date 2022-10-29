@@ -13,5 +13,5 @@ A simple to-do list app using Html, Css, Javascript and Local Storage.
 
 ## Screenshots 
 
-!(https://github.com/huseyineskan/todo-list/blob/main/img/todo-list.gif)[Todo List]
-!(https://github.com/huseyineskan/todo-list/blob/main/img/todo.png)[Todo List]
+![TodoList](https://github.com/huseyineskan/todo-list/blob/main/img/todo-list.gif)
+![TodoList](https://github.com/huseyineskan/todo-list/blob/main/img/todo.png)
